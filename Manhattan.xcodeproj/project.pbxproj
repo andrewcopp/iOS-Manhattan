@@ -191,6 +191,93 @@
 			path = Wireframe;
 			sourceTree = "<group>";
 		};
+		5719EFCD1B3D1AB3003B68A4 /* Review */ = {
+			isa = PBXGroup;
+			children = (
+				5719EFCE1B3D1AB3003B68A4 /* Application Logic */,
+				5719EFD21B3D1AB3003B68A4 /* Module Interface */,
+				5719EFD31B3D1AB3003B68A4 /* User Interface */,
+			);
+			path = Review;
+			sourceTree = "<group>";
+		};
+		5719EFCE1B3D1AB3003B68A4 /* Application Logic */ = {
+			isa = PBXGroup;
+			children = (
+				5719EFCF1B3D1AB3003B68A4 /* Interactor */,
+				5719EFD01B3D1AB3003B68A4 /* Manager */,
+				5719EFD11B3D1AB3003B68A4 /* Model */,
+			);
+			path = "Application Logic";
+			sourceTree = "<group>";
+		};
+		5719EFCF1B3D1AB3003B68A4 /* Interactor */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Interactor;
+			sourceTree = "<group>";
+		};
+		5719EFD01B3D1AB3003B68A4 /* Manager */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Manager;
+			sourceTree = "<group>";
+		};
+		5719EFD11B3D1AB3003B68A4 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		5719EFD21B3D1AB3003B68A4 /* Module Interface */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "Module Interface";
+			sourceTree = "<group>";
+		};
+		5719EFD31B3D1AB3003B68A4 /* User Interface */ = {
+			isa = PBXGroup;
+			children = (
+				5719EFD41B3D1AB3003B68A4 /* Presenter */,
+				5719EFD51B3D1AB3003B68A4 /* Transition */,
+				5719EFD61B3D1AB3003B68A4 /* View */,
+				5719EFD71B3D1AB3003B68A4 /* Wireframe */,
+			);
+			path = "User Interface";
+			sourceTree = "<group>";
+		};
+		5719EFD41B3D1AB3003B68A4 /* Presenter */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Presenter;
+			sourceTree = "<group>";
+		};
+		5719EFD51B3D1AB3003B68A4 /* Transition */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Transition;
+			sourceTree = "<group>";
+		};
+		5719EFD61B3D1AB3003B68A4 /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		5719EFD71B3D1AB3003B68A4 /* Wireframe */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Wireframe;
+			sourceTree = "<group>";
+		};
 		57369A841B31340600C2E4A4 = {
 			isa = PBXGroup;
 			children = (
@@ -265,6 +352,7 @@
 			children = (
 				57E8CD631B31372A00B9365B /* List */,
 				5719EFC21B3D1703003B68A4 /* Rate */,
+				5719EFCD1B3D1AB3003B68A4 /* Review */,
 			);
 			path = Modules;
 			sourceTree = "<group>";
